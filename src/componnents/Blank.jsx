@@ -1,4 +1,3 @@
-// src/components/Blank.jsx
 import React, { useState } from "react";
 
 const Blank = ({ onSelectWord, wordSelected }) => {
